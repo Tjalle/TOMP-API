@@ -36,7 +36,7 @@ The workgroup has active participation from (pending permission to disclose furt
 - Stapp.in - Reinald Bronkhorst
 - Stichting OpenGeo - Stefan de Konink
 - Mobiliteitsfabriek - Martijn van der Linden
-- Taxistop - Tjalle Groen
+- Mpact - Tjalle Groen
 - PON (Hely, Shuttel, Dockr, Check) - Marijn Roverts
 - XXImo Mobility - Christiaan Rakowski
 - Innovactory - Stefan Bollars
